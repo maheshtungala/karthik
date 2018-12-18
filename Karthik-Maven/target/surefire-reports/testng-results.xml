@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mySuite" duration-ms="32" started-at="2018-12-18T14:06:35Z" finished-at="2018-12-18T14:06:35Z">
+    <groups>
+    </groups>
+    <test name="myTest" duration-ms="32" started-at="2018-12-18T14:06:35Z" finished-at="2018-12-18T14:06:35Z">
+      <class name="myPack.Karthik">
+        <test-method status="PASS" signature="addEmp()[pri:0, instance:myPack.Karthik@ce8af7]" name="addEmp" duration-ms="8" started-at="2018-12-18T19:36:35Z" finished-at="2018-12-18T19:36:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+        <test-method status="PASS" signature="addLocation()[pri:0, instance:myPack.Karthik@ce8af7]" name="addLocation" duration-ms="1" started-at="2018-12-18T19:36:35Z" finished-at="2018-12-18T19:36:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addLocation -->
+        <test-method status="PASS" signature="deleteEmp()[pri:0, instance:myPack.Karthik@ce8af7]" name="deleteEmp" duration-ms="1" started-at="2018-12-18T19:36:35Z" finished-at="2018-12-18T19:36:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmp -->
+        <test-method status="PASS" signature="editEmp()[pri:0, instance:myPack.Karthik@ce8af7]" name="editEmp" duration-ms="1" started-at="2018-12-18T19:36:35Z" finished-at="2018-12-18T19:36:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editEmp -->
+        <test-method status="PASS" signature="editLocation()[pri:0, instance:myPack.Karthik@ce8af7]" name="editLocation" duration-ms="1" started-at="2018-12-18T19:36:35Z" finished-at="2018-12-18T19:36:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editLocation -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:myPack.Karthik@ce8af7]" name="verifyLogin" duration-ms="2" started-at="2018-12-18T19:36:35Z" finished-at="2018-12-18T19:36:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- myPack.Karthik -->
+    </test> <!-- myTest -->
+  </suite> <!-- mySuite -->
+</testng-results>
